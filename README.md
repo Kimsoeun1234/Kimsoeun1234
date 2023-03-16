@@ -1,3 +1,40 @@
+# GitHub Profile 꾸미기
+
+[**https://gist.github.com/rxaviers/7360908](https://gist.github.com/rxaviers/7360908) 깃허브 이모지 모음**
+
+깃허브-프로필 템플릿
+
+[https://rahuldkjain.github.io/gh-profile-readme-generator/](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+
+깃허브 뱃지
+
+[https://shields.io/](https://shields.io/)
+
+깃허브-프로필(헤더)
+
+```jsx
+![header](https://capsule-render.vercel.app/api?text=webDesign&animation=fadeIn)
+```
+
+[GitHub - kyechan99/capsule-render: Dynamic Coloful Image Render](https://github.com/kyechan99/capsule-render#navigation)
+
+**깃허브 프로필 상태창 꾸미기**
+
+ *S+ (상위 1%), S (상위 25%), A++ (상위 45%), A+ (상위 60%), B+ (전체)* 
+
+```jsx
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elldia&theme=transparent&show_icons=true)
+```
+
+[github-readme-stats/README.md at master · anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md)
+
+**깃허브 사용 언어 구성하기**
+
+```jsx
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elldia)](https://github.com/anuraghazra/github-readme-stats)
+```
+
+[github-readme-stats/readme_kr.md at master · anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md)
 ### Hi there 👋
 
 <!--
