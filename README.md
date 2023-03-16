@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving)
+![header](https://capsule-render.vercel.app/api?type=waving&text=welcome!%20&fontSize=90&fontColor=d6ace6)
 <!--
 **Kimsoeun1234/Kimsoeun1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
