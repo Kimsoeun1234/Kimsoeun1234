@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=KIMSOEUN%60&fontSize=90" />
-
+![header](https://capsule-render.vercel.app/api?text=HI:)&animation=fadeIn)
 <!--
 **Kimsoeun1234/Kimsoeun1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
